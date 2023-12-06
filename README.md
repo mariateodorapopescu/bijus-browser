@@ -1,6 +1,6 @@
 # Website Management System
 
-Welcome to the **Website Management System** repository! This project involves handling and processing data related to websites, including their structure, content, and specific tasks. Below, you'll find an overview of the main components and their functionalities:
+This project involves handling and processing data related to websites, including their structure, content, and specific tasks. Below, you'll find an overview of the main components and their functionalities:
 
 ## util.h
 
