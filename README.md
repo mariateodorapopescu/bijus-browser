@@ -34,4 +34,4 @@ This project involves handling and processing data related to websites, includin
 
 ## How to Use
 
-Each task is implemented in a separate file. You can explore the code within each file for a detailed understanding of the functionalities. Feel free to reach out if you have any questions or suggestions for improvement. Happy coding! 🚀👩‍💻👨‍💻
+Each task is implemented in a separate file. You can explore the code within each file for a detailed understanding of the functionalities. Feel free to reach out if you have any questions or suggestions for improvement. 
